@@ -14,7 +14,7 @@ Bilgisayar bilimlerinin kapsadığı bütün alanlara meraklıyım. Ağırlıkl�
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/numan-kahya-603948285/) 
-**[İletişim E-postam:numankahya28@gmail.com]
+- [İletişim E-postam:numankahya28@gmail.com]
 
 <!--
 **numankhy28/numankhy28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
