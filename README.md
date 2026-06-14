@@ -2,15 +2,15 @@
 
 ## Kocaeli Bilgisayar Mühendisliği 3. Sınıf Öğrencisi & Independent Game Developer
 
-Bilgisayar bilimlerinin kapsadığı bütün alanlara meraklıyım. Ağırlıklı olarak oyun geliştirme ve nesne yönelimli programlama üstüne çalışmaktayım. Karmaşık problemleri matematiksel modellerle çözmeyi , kendine has sanata sahip ve atmosferik oyun deneyimleri geliştiriyorum. Optimizasyona önem verip takım projelerinde okunabilir ve geliştirmeye açık bir çalışma alanı oluşturmaya önem veriyorum.
+Bilgisayar bilimlerinin kapsadığı bütün alanlara meraklıyım. Ağırlıklı olarak oyun geliştirme ve nesne yönelimli programlama üstüne çalışmaktayım. Karmaşık problemleri matematiksel modellerle çözmeyi , kendine has sanata sahip ve atmosferik oyun deneyimleri geliştiriyorum. Optimizasyona, verimliliğe, işlevselliğe dikkat edip takım projelerinde okunabilir ve geliştirmeye açık bir çalışma alanı oluşturmaya önem veriyorum.
 
-- 🎓 **İlgi Alanları:** Oyun Geliştirme , Nesne Yönelimli Programlama , Sayısal Analiz, Assembly ve Gömülü Sistemler.
-- 🎮 **Oyun Geliştirme:** Unity/C#, UE4/C++, AI tasarımı ve optimizasyon.
+- 🎓 **İlgi Alanları:** Oyun Geliştirme , Nesne Yönelimli Programlama , Game AI mimarlığı, Sonlu Durum Makineleri, Assembly ve Gömülü Sistemler, 3D Modelleme, Sanat tasarımı ve yönetimi.
+- 🎮 **Oyun Geliştirme:** Unity/C#, UE4/UE5/C++, GameMaker/GML , Godot/C++, Cry Engine/C++.
 
 ### 💻 Teknolojiler ve Araçlar
 - **Diller:** C, C++, C#, Assembly (x86), Python , Java
-- **Araçlar:** Unity, Unreal Engine , Docker , Git , Blockbench, Blender , Krita
-- **Uzmanlık:** Object Oriented Programming (OOP),  ,Steganography (CTF), Game Mechanics , Visual Design , Art Directing
+- **Araçlar:** Unity, Unreal Engine, Godot, CryEngine, GameMaker, Glist Engine, Docker, Git, Blockbench, Blender, Krita
+- **Uzmanlık:** Object Oriented Programming (OOP),  ,Steganography (CTF), Game Mechanics, Visual Design, Art Directing, Game AI Architecture
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/numan-kahya-603948285/) 
