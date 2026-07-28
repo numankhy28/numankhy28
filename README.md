@@ -2,7 +2,7 @@
 
 ## Kocaeli Bilgisayar Mühendisliği 3. Sınıf Öğrencisi & Independent Game Developer
 
-Bilgisayar bilimlerinin kapsadığı bütün alanlara meraklıyım. Ağırlıklı olarak oyun geliştirme ve nesne yönelimli programlama üstüne çalışmaktayım. Karmaşık problemleri matematiksel modellerle çözmeyi , kendine has sanata sahip ve atmosferik oyun deneyimleri geliştiriyorum. Optimizasyona, verimliliğe, işlevselliğe dikkat edip takım projelerinde okunabilir ve geliştirmeye açık bir çalışma alanı oluşturmaya önem veriyorum.
+Bilgisayar bilimlerinin kapsadığı bütün alanlara meraklıyım. Ağırlıklı olarak Game Development ve Data-Oriented-Design üstüne çalışmaktayım. Karmaşık problemleri matematiksel modellerle çözmekte , kendine has sanata sahip ve atmosferik oyun deneyimleri geliştirmekteyim. Optimizasyona, verimliliğe, işlevselliğe dikkat edip takım projelerinde okunabilir ve geliştirmeye açık bir çalışma alanı oluşturmaya önem veriyorum.
 
 - 🎓 **İlgi Alanları:** Oyun Geliştirme, Nesneye Yönelik Programlama, Game AI Mimarisi, Sonlu Durum Makineleri, Assembly, 3D Modelleme, Sanat Tasarımı ve Yönetimi.
 - 🎮 **Oyun Geliştirme:** Unity/C#, UE4/UE5/C++, GameMaker/GML , Godot/C++, Cry Engine/C++.
