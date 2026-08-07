@@ -4,10 +4,10 @@
 
 Bilgisayar bilimlerinin kapsadığı bütün alanlara meraklıyım. Ağırlıklı olarak Game Development ve Data-Oriented-Design üstüne çalışmaktayım. Karmaşık problemleri matematiksel modellerle çözmekte , kendine has sanata sahip ve atmosferik oyun deneyimleri geliştirmekteyim. Optimizasyona, verimliliğe, işlevselliğe dikkat edip takım projelerinde okunabilir ve geliştirmeye açık bir çalışma alanı oluşturmaya önem veriyorum.
 
-- 🎓 **İlgi Alanları:** Oyun Geliştirme, Nesneye Yönelik Programlama, Game AI Mimarisi, Sonlu Durum Makineleri, Assembly, 3D Modelleme, Sanat Tasarımı ve Yönetimi.
-- 🎮 **Oyun Geliştirme:** Unity/C#, UE4/UE5/C++, GameMaker/GML , Godot/C++, Cry Engine/C++.
+**İlgi Alanları:** Oyun Geliştirme, Nesneye Yönelik Programlama, Game AI Mimarisi, Sonlu Durum Makineleri, Assembly, 3D Modelleme, Sanat Tasarımı ve Yönetimi.
+**Oyun Geliştirme:** Unity/C#, UE4/UE5/C++, GameMaker/GML , Godot/C++, Cry Engine/C++.
 
-### 💻 Teknolojiler ve Araçlar
+### Teknolojiler ve Araçlar
 - **Diller:** C, C++, C#, Assembly (x86), Python , Java
 - **Araçlar:** Unity, Unreal Engine, Godot, CryEngine, GameMaker, Glist Engine, Docker, Git, Blockbench, Blender, Krita
 - **Uzmanlık:** Object Oriented Programming (OOP), Game Mechanics, Visual Design, Art Directing
