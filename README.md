@@ -1,6 +1,6 @@
 # Selam, Ben Numan
 
-## Kocaeli Bilgisayar Mühendisliği 3. Sınıf Öğrencisi & Independent Game Developer
+## Kocaeli Bilgisayar Mühendisliği 4. Sınıf Öğrencisi & Game Developer
 
 Bilgisayar bilimlerinin kapsadığı bütün alanlara meraklıyım. Ağırlıklı olarak Game Development ve Data-Oriented-Design üstüne çalışmaktayım. Karmaşık problemleri matematiksel modellerle çözmekte , kendine has sanata sahip ve atmosferik oyun deneyimleri geliştirmekteyim. Optimizasyona, verimliliğe, işlevselliğe dikkat edip takım projelerinde okunabilir ve geliştirmeye açık bir çalışma alanı oluşturmaya önem veriyorum.
 
